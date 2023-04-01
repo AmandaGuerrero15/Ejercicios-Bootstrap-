@@ -1,0 +1,10 @@
+body{
+    background-color:#16a4a2 ;
+    background-image: url(img/san.png);
+}
+.principal{
+    background-color: #ffff99;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 20px;
+} 
